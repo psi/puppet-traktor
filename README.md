@@ -1,4 +1,4 @@
-3# Traktor Puppet Module for Boxen
+# Traktor Puppet Module for Boxen
 
 ## Usage
 
